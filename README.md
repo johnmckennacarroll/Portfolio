@@ -31,8 +31,9 @@ Tableau dashboards analyzing U.S. flight delay data to identify airline-level pe
   - U.S. Flight Delays Overview  
   - Average Departure Delay by Airline  
   - Departure vs. Arrival Delay
-- 📁 **Project Files:**  
-  ./Tableau_Project
+- 📁 **Project Files:**
+- [View Project](./Tableau_Project) 
+
 
 
 

@@ -40,8 +40,8 @@ This project consists of multiple Tableau visualizations created to explore U.S.
 ## Screenshots
 
 ### U.S. Flight Delays – Main Dashboard
-![Main Dashboard](assets/main_dashboard.png)
+![Main Dashboard](assets/main_dashboard.jpg)
 
 ### Average Departure Delay by Airline
-![Average Departure Delay by Airline](assets/average_delay_by_airline.png)
+![Average Departure Delay by Airline](assets/average_delay_by_airline.jpg)
 

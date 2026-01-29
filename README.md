@@ -19,8 +19,8 @@ Interactive business intelligence dashboard analyzing customer demographics and 
 **Tools:** Python, Pandas, Jupyter Notebook  
 
 Project focused on gathering, cleaning, and preparing data from multiple data sources, including file-based datasets and externally hosted data. Emphasis is placed on assessing data quality, handling missing or inconsistent values, and preparing clean datasets for analysis.
+- 📁 [View Project](./Data_Wrangling)
 
-- 📁 **Project Repository:** ./Data_Wrangling
 
 
 

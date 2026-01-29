@@ -22,5 +22,18 @@ Project focused on gathering, cleaning, and preparing data from multiple data so
 - 📁 [View Project](./Data_Wrangling)
 
 
+## 📈 Project 3: Tableau Data Visualization – U.S. Flight Delays
+**Tools:** Tableau  
+
+Tableau dashboards analyzing U.S. flight delay data to identify airline-level performance trends and relationships between departure and arrival delays.
+
+- 🔗 **Tableau Public Dashboards:**  
+  - U.S. Flight Delays Overview  
+  - Average Departure Delay by Airline  
+  - Departure vs. Arrival Delay
+- 📁 **Project Files:**  
+  ./Tableau_Project
+
+
 
 
